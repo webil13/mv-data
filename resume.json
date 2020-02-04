@@ -3,5 +3,11 @@
 		{
 			"nav-link": "#about"
 		}
+	],
+	"Section": [
+		{},
+		{
+			"nav-link": "#about"
+		}
 	]
 }
