@@ -14,7 +14,7 @@
 			"section_name": "about"
 		},
 		{
-			"section_name": "skill"
+			"section_name": "skills"
 		},
 		{
 			"section_name": "portfolio"
@@ -26,7 +26,6 @@
 			"section_name": "contact"
 		},
 		{
-			"nav-link": "#skill",
 			"section_name": "Home"
 		}
 	]
