@@ -8,5 +8,23 @@
 		{
 			"nav-link": "#about"
 		}
+	],
+	"section": [
+		{
+			"section_name": "#about"
+		},
+		{
+			"section_name": "#skill"
+		},
+		{
+			"section_name": "#portfolio"
+		},
+		{
+			"section_name": "#experience"
+		},
+		{
+			"section_name": "#contact"
+		},
+		{}
 	]
 }
