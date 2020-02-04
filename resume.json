@@ -30,5 +30,16 @@
 	"header_image": "images/cc-bg-1.jpg",
 	"profile_image": "https://cdn.jsdelivr.net/gh/webil13/mv-data@c4fee833f18dd24d959e0d0b348a28f7510a2e89/images/marijuana-269851_1280.jpg",
 	"name": "Mario Growmeister",
-	"profession": "Web enthusiast, Graphic Designer, stoner"
+	"profession": "Web enthusiast, Graphic Designer, stoner",
+	"header": {
+		"header_image": "images/cc-bg-1.jpg",
+		"profile_image": "images/anthony.jpg",
+		"name": "Anthony Barnett",
+		"profession": "\n                    Web Developer, Graphic Designer, Photographer\n                  ",
+		"hire_me": "Hire Me",
+		"cv_link": "#",
+		"cv_download_button": "Download CV",
+		"social_icon_link": "#",
+		"fa": "facebook"
+	}
 }
