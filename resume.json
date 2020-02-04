@@ -39,6 +39,7 @@
 		"hire_me": "Hire Me",
 		"cv_link": "#",
 		"cv_download_button": "Download CV",
-		"social_icon_link": "#"
+		"social_icon_link": "#",
+		"social_icon": "fa fa-facebook"
 	}
 }
